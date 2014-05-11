@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'docpeeker'
+Docpeeker.lookup(ARGV[0])
