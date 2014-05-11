@@ -1,6 +1,6 @@
 # Docpeeker
 
-TODO: Write a gem description
+Clicking on links is for plebeians! Use docpeeker to open ruby-docs pages from the console.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+$   `docpeeker <method name>` will open up tabs for all the ruby-doc pages with that method, and scroll you to the method description.
 
 ## Contributing
 
