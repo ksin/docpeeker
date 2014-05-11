@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
 
 require 'docpeeker'
+require 'open-uri'
 Docpeeker.lookup(ARGV[0])

@@ -1,6 +1,5 @@
 require "docpeeker/version"
 require 'nokogiri'
-require 'open-uri'
 
 module Docpeeker
 
